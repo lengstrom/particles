@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/meadowstream/particles/issues"
   },
-  "homepage": "https://github.com/meadowstream/particles"
+  "homepage": "https://github.com/meadowstream/particles",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
 }
