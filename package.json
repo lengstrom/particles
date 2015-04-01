@@ -1,0 +1,19 @@
+{
+  "name": "particles",
+  "version": "1.0.0",
+  "description": "Particle rendering library",
+  "main": "particles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meadowstream/particles.git"
+  },
+  "author": "Logan Engstrom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meadowstream/particles/issues"
+  },
+  "homepage": "https://github.com/meadowstream/particles"
+}
